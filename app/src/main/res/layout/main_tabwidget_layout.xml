@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/normalRadio"
+        style="@style/radio_navigation_bar_bottom_tab"
+        android:drawableTop="@mipmap/ic_cash_un"
+        android:text="收银台"
+        android:textColor="@color/text_gray" />
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/checkedRadio"
+        style="@style/radio_navigation_bar_bottom_tab"
+        android:drawableTop="@mipmap/ic_cash_on"
+        android:text="收银台"
+        android:textColor="@color/text_yellow" />
+</RelativeLayout>
