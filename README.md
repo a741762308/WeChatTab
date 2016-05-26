@@ -3,4 +3,4 @@
 
 
 #效果图
-![](https://github.com/a741762308/WeChatTab/tree/master/screenshoot/shoot.gif)
+![](https://github.com/a741762308/WeChatTab/raw/master/screenshoot/shoot.gif)
